@@ -24,7 +24,10 @@ let DUMMY_EXPENSE = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+<<<<<<< HEAD
   { id: "e5", title: "New TV", amount: 799.49, date: new Date(2024, 2, 12) },
+=======
+>>>>>>> fc8691af67dc861484dd48e4889aeb8ccb08c215
 ];
 
 function App() {
